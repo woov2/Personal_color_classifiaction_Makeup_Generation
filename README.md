@@ -1,4 +1,5 @@
-# Personal-color-classifiaction-Makeup-Generation
+# Personal color classifiaction Makeup Generation
+### [2022 D&A Conference] 퍼스널 컬러 분류 AI 및 메이크업 서비스 개발
 
 # 프로젝트 개요
 ![퍼스널컬러 img1](https://github.com/user-attachments/assets/897f657f-ca6e-428c-9740-9eaf114da997)
